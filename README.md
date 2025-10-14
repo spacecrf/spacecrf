@@ -1,6 +1,6 @@
 # Manuel García | 2º DAW
 
-[![GitHub followers](https://ithub.comlinkedin.com/in/tuusuario)
+[![GitHub followers](https://ithub.comlinkedin.com/in/spacecrf)
 
 ---
 
@@ -9,7 +9,7 @@ Estudiante de **Segundo Curso de DesarrolloIES La Marisma**.
 Me apasiona la eficiencia, la programación y el aprendizaje continuo.
 
 🌍 **Huelva, España**  
-🖥️ [Portfolio](https://tuil@example.com**  
+🖥️ [Portfolio](https://tuil@example.com**)  
 🧠 Actualmente aprendiendo **Vue.js**  
 ⚡ Siempre buscando la forma más eficiente de resolver problemas  
 
@@ -26,7 +26,8 @@ LenguajesFrontendBackendHerramientasJavaScriptHTML5Node.jsGit
 ---
 
 ## 📊 GitHub Stats
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&/api/top-langs/?username=tuusuario&layout=compactttps://github.com/spacecrf/ct) y Laravel ([https://github.com/spacecrf](https://camo.githubusercontent.com))
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&/api/top-langs/?username=tuusuario&layout=compactttps://github.com/spacecrf/ct)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=spacecrf&layout=ySQL)
 ---
 
 ## 💼 Competencias
