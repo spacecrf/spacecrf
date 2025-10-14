@@ -26,7 +26,7 @@ LenguajesFrontendBackendHerramientasJavaScriptHTML5Node.jsGit
 ---
 
 ## 📊 GitHub Stats
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&/api/top-langs/?username=tuusuario&layout=compactttps://github.com/spacecrf/ct y Laravel https://github.com/spacecrf)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&/api/top-langs/?username=tuusuario&layout=compactttps://github.com/spacecrf/ct) y Laravel (https://github.com/spacecrf)
 ---
 
 ## 💼 Competencias
