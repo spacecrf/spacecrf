@@ -1,6 +1,6 @@
 # Manuel García | 2º DAW
 
-[![GitHub followers](https://ithub.comlinkedin.com/in/spacecrf)
+![GitHub followers](https://ithub.comlinkedin.com/in/spacecrf)
 
 ---
 
