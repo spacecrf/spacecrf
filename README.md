@@ -8,7 +8,7 @@ Estudiante en **IES La Marisma**
 ---
 
 ## 🔧 Tecnologías y Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&ss3&logoColor=go=javascript&dge&s, ejercicios y prácticas realizados durante el **segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web**.  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&ss3&logoColor=go=javascript&dge&s), ejercicios y prácticas realizados durante el **segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web**.  
 Aquí encontrarás una colección organizada de recursos y código fuente para las diferentes asignaturas del curso.
 
 ---
@@ -19,7 +19,7 @@ Aquí encontrarás una colección organizada de recursos y código fuente para l
 **Tecnologías:** JavaScript, TypeScript, React, Vue.js, Angular  
 **Contenidos:** DOM, AJAX, SPA, APIs del navegador  
 **Descripción:** Interfaces web dinámicas e interactivas.  
-➡ [Ver proyectos](https://github.com/tuusuarion Entorno Servidor (DWES)
+➡ [Ver repositorios](https://github.com/spacecrf?tab=repositories) Entorno Servidor (DWES)
 **Tecnologías:** PHP, MySQL, Laravel, Symfony  
 **Contenidos:** Programación en servidor, bases de datos, APIs RESTful  
 ➡ [Ver proyectos
@@ -61,4 +61,4 @@ TrimestrePeriodoContenidos Principales1ºSeptiembre - DiciembreFundamentos de Ja
 ---
 
 ## 📞 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logode Grado Superior en Desarrollo de Aplicaciones Web**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logode) Grado Superior en Desarrollo de Aplicaciones Web**
