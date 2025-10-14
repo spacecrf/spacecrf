@@ -27,7 +27,6 @@ LenguajesFrontendBackendHerramientasJavaScriptHTML5Node.jsGit
 
 ## 📊 GitHub Stats
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&/api/top-langs/?username=tuusuario&layout=compactttps://github.com/spacecrf/ct)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=spacecrf&layout=ySQL)
 ---
 
 ## 💼 Competencias
