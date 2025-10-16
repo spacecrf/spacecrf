@@ -1,43 +1,49 @@
-# Manuel García | 2º DAW
+# 👨‍💻 Manuel García | 2º DAW
 
-![GitHub followers](https://ithub.comlinkedin.com/in/spacecrf)
+[![GitHub](https://img.shields.io/badge/GitHub-Manuel%20García-181717?style=flat&logo=github)](https://github.com/spacecrf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20García%20Rodríguez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/spacecrf/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visítame-ff0079?style=flat&logo=firefox)](https://tusitioejemplo.com)
 
 ---
 
-## 👨‍💻 Desarrollador Web en formación
-Estudiante de **Segundo Curso de DesarrolloIES La Marisma**.  
-Me apasiona la eficiencia, la programación y el aprendizaje continuo.
+## 🌱 Desarrollador Web en Formación
 
-🌍 **Huelva, España**  
-🖥️ [Portfolio](https://tuil@example.com**)  
+Soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** en el **IES La Marisma**.  
+Apasionado por la programación, el diseño eficiente y el aprendizaje continuo.  
+Me motiva crear soluciones prácticas y optimizadas para la web moderna.
+
+📍 **Huelva, España**  
 🧠 Actualmente aprendiendo **Vue.js**  
-⚡ Siempre buscando la forma más eficiente de resolver problemas  
+⚡ Siempre buscando la forma más elegante y eficiente de resolver problemas  
 
 ---
 
 ## 🛠️ Tecnologías
 
-LenguajesFrontendBackendHerramientasJavaScriptHTML5Node.jsGit
-| PHP           | CSS3        | MySQL       | VS Code          |
-| Python        | Vue.js      | Laravel     | Docker           |
-| Java          | Bootstrap   | Symfony     | Linux            |
-| Bash          | Figma       |             | Photoshop        |
+| Lenguajes | Frontend | Backend | Herramientas |
+|------------|-----------|-----------|----------------|
+| JavaScript | HTML5 | Node.js | Git |
+| PHP | CSS3 | MySQL | VS Code |
+| Python | Vue.js | Laravel | Docker |
+| Java | Bootstrap | Symfony | Linux |
+| Bash | Figma |  | Photoshop |
 
 ---
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spacecrf&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact)
 
-![a](https://camo.githubusercontent.com/81bafa2c4734233e01f9f315c1a636e1a5e13fc6b6d0b573590820427e4de97c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5069706b6f6e78266c616e67735f636f756e743d36267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c61796f75743d636f6d70616374)
 ---
 
 ## 💼 Competencias
+
 ✅ Desarrollo web en entorno cliente y servidor  
-✅ Implementación de interfaces de usuario  
-✅ Gestión y consumo de servicios web  
+✅ Implementación de interfaces de usuario modernas y responsivas  
+✅ Consumo e integración de servicios web  
 ✅ Despliegue y mantenimiento de aplicaciones  
-✅ Trabajo en equipo y metodologías ágiles  
+✅ Trabajo colaborativo con metodologías ágiles  
 
 ---
 
-**Desarrollado con ❤️ para el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web**
+### ✨ “Desarrollado con ❤️ para el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web”
