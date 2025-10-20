@@ -3,6 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Manuel%20García-181717?style=flat&logo=github)](https://github.com/spacecrf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20García%20Rodríguez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/manuel-garc%C3%ADa-rodr%C3%ADguez-51a86033b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visítame-ff0079?style=flat&logo=firefox)](https://spacecrf.github.io/myWeb/)
+[![Español](https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README_EN.md)
+
 
 ---
 
